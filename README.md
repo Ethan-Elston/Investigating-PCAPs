@@ -4,27 +4,22 @@
 
 To develop proficiency in network traffic analysis by installing and utilizing Wireshark to investigate PCAP files efficiently. This project focuses on identifying potential malicious web shell activity through protocol analysis, filtering techniques, and investigative methodologies.
 
+This project is divided into two parts:
+- Part 1: Installing Wireshark and learning basics
+- Part 2: Investigating PCAPs
+
 ### Skills Learned
 
-
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Analyzed PCAP files using Wireshark to investigate network traffic and identify anomalies.
+- Developed hands-on experience in inspecting network packets to detect and trace malicious activity.
+- Learned to identify indicators of compromise (IoCs) such as unauthorized access via web shells, remote command execution, and network reconnaissance.
+- Enhanced understanding of structured network forensic investigations, focusing on attacker behavior and data exfiltration methods.
+- Observed attacker techniques, including web shell exploitation, command execution, and port scanning, to improve defensive security measures.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Wireshark – Used for capturing, analyzing, and investigating network traffic to identify potential malicious activity.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+This project is split into two parts. **Refer to the specific part for details.**
